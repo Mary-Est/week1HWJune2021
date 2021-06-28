@@ -1,0 +1,45 @@
+section
+{
+    border-right: black solid 10px;
+}
+
+h1 
+{
+    font-size: 40px; text-decoration: underline; text-align: center;
+}
+
+
+h2
+{
+    font-size: 40px; font-weight: bolder; text-align: center; 
+    border-top: solid black 10px; border-bottom: black solid 10px; margin: auto 10% auto;
+}
+
+.p1
+{
+    font-size: 30px; text-align: center;
+}
+
+.p2
+{
+    font-size: 20px; text-align: left; padding-left: 10px; padding-right: 10%; 
+}
+
+.center
+{
+    display: block; margin-left: 10px; margin-right: 10px; width: 300px;
+}
+
+
+
+.flex-container
+{
+    display: flex; justify-content: flex-start;     
+}
+
+
+img 
+{
+    display: block; margin-left: 10px; margin-right: 10px; width: 350px;
+    
+}
